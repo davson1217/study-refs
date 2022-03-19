@@ -8,3 +8,6 @@ https://www.roberthalf.com/blog/salaries-and-skills/how-to-answer-whats-your-exp
 
 Understanding CI/CD and its Pipeline
 https://www.plutora.com/blog/understanding-ci-cd-pipeline
+
+G2G -> Maths
+https://www.geeksforgeeks.org/relations-and-their-types/?ref=lbp
